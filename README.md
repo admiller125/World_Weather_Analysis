@@ -13,11 +13,11 @@ weather description was formatted and placed on a google map as shown below.
 
 Then the google "Directions API" was used to find the path between four chosen hotels. Below is the directions layer map created as a result.
 
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 Finally, the information regarding the four hotel locations into markers that displayed the hotel name, city, county, and current weather description.
 
-![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 
 

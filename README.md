@@ -9,7 +9,7 @@ and organized it into a dataframe and wrote the information to a csv to use as m
 geocoding api to find the nearest hotel to the randomly generated cities in the requested "Max Temp" range. Then the values associated with the hotels found were written to a csv. The hotels along with their city, country, and current 
 weather description was formatted and placed on a google map as shown below.
 
-![](Vacation_Search/WeatherPy_vacation_map.png)
+![](Vacation_Search/WeatherPy_vacation_map.PNG)
 
 Then the google "Directions API" was used to find the path between four chosen hotels. Below is the directions layer map created as a result.
 
